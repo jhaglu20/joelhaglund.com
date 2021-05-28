@@ -28,6 +28,7 @@ twitter_username: jekyllrb
 github_username:  jhaglu20
 
 # Build settings
+
 plugins:
   - jekyll-feed
 
