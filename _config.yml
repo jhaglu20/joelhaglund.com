@@ -28,7 +28,11 @@ twitter_username: jekyllrb
 github_username:  jhaglu20
 
 # Build settings
+<<<<<<< HEAD
 theme: jekyll-theme-slate
+=======
+theme: minima
+>>>>>>> parent of 9a8c209 (Set theme jekyll-theme-hacker)
 plugins:
   - jekyll-feed
 
