@@ -7,5 +7,3 @@ categories: jekyll update
 	This is a website I am working on. It will be used for many things.
 	 Curently there is not much on it because I am still learning the
 	programs for creating it.
-	
-		This is a new paragraph I am using for testing.
