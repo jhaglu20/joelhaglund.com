@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building A Mechanical Keyboard Was Harder Than I thought"
-date:   2021-12-08 11:06:42 -0500
+date:   2021-12-08 09:30:14 -0500
 categories: Test
 ---
 		I decided I was going to buy a friend a keyboard. Rather than just buy
