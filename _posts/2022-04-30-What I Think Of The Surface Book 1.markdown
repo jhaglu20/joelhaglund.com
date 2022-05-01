@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Building A Mechanical Keyboard Was Harder Than I thought"
+title:  "What I Think Of The Surface Book 1"
 date:   2022-04-30 09:30:14 -0500
-categories: Test
+categories: Reviews
 ---
 		Recently I bought a surface Book 1. I bought it to replace a HP windows
 		tablet that I was using for basic tasks at work. I like the tablet form 
