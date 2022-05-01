@@ -25,5 +25,5 @@ categories: Reviews
 		way I fixed it was going into windows settings and setting the gpu to the IGPU
 		instead of the dedicated card. It also lets me remove the tablet with it open.
 		
-			I just got the computer today but I hope to keep updating this as I use
-			the computer.
+			I just got the computer today but I hope to keep updating this as I
+		use the computer.
