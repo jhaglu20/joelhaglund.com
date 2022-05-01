@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Building A Mechanical Keyboard Was Harder Than I thought"
+title:  "Building A Mechanical Keyboard Was Harder Than I Thought"
 date:   2021-12-08 09:30:14 -0500
-categories: Test
+categories: Reviews
 ---
 		I decided I was going to buy a friend a keyboard. Rather than just buy
 	one off the shelf I decided that I was going to try to create something
