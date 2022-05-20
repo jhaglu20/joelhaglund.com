@@ -18,12 +18,21 @@ categories: Reviews
 	you can use a dongle to charge, connect a display, and connect usb or other
 	devices.
 		
-			The performance is quite adiquate in 2022. While you can get better
-		performing computers for cheap, I believe the comptuer makes up for it in
-		other features. I will mention that I had issues with playing youtube videos
-		in the brave browser. They would studder and hang every once in a while. The
-		way I fixed it was going into windows settings and setting the gpu to the IGPU
-		instead of the dedicated card. It also lets me remove the tablet with it open.
+		The performance is quite adiquate in 2022. While you can get better
+	performing computers for cheap, I believe the comptuer makes up for it in
+	other features. I will mention that I had issues with playing youtube videos
+	in the brave browser. They would studder and hang every once in a while. The
+	way I fixed it was going into windows settings and setting the gpu to the IGPU
+	instead of the dedicated card. It also lets me remove the tablet with it open.
 		
-			I just got the computer today but I hope to keep updating this as I
-		use the computer.
+		I just got the computer today but I hope to keep updating this as I
+	use the computer.
+		
+		Here is my update after owning it for several weeks. It apears the one
+	I got has a bad battery in the clip board. I can't let it get too low
+	on battery or it will shut down on me. The performance is fine for what
+	I do. It's not a gaming powerhouse or a workstation, but since I have a
+	mac mini for editing videos at work I dont have any issues for waht I need
+	it for. I love the keyboard and trackpad, The screen is amazing. I am using a
+	usb c to surface connect adapter for charging and have had no issues. For how
+	old it is it works amazing for my needs.
