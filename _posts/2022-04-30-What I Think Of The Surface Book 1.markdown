@@ -38,10 +38,10 @@ categories: Reviews
 	old it is it works amazing for my needs.
 
 		I have been using it for over 6 months, It is running ubuntu great with a
-		custom kernal. I have had no preformance issues and have even played some
-		very light games at times. I find it great for day to day tasks. The only
-		issue is that the screen seems to have a battery that is starting to have
-		issues. If I push the tablet hard without the base, sometimes it might shut
-		off, But only in tablet mode. I also find the lack of ports anoying at times.
-		The only decent dock I can find is from microsoft and uses the surface
-		connector. Overall I can recomend this device even in 2022.
+	custom kernal. I have had no preformance issues and have even played some
+	very light games at times. I find it great for day to day tasks. The only
+	issue is that the screen seems to have a battery that is starting to have
+	issues. If I push the tablet hard without the base, sometimes it might shut
+	off, But only in tablet mode. I also find the lack of ports anoying at times.
+	The only decent dock I can find is from microsoft and uses the surface
+	connector. Overall I can recomend this device even in 2022.
