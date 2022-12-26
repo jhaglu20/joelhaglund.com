@@ -32,7 +32,7 @@ categories: Reviews
 	I got has a bad battery in the clip board. I can't let it get too low
 	on battery or it will shut down on me. The performance is fine for what
 	I do. It's not a gaming powerhouse or a workstation, but since I have a
-	mac mini for editing videos at work I dont have any issues for waht I need
+	mac mini for editing videos at work I dont have any issues for what I need
 	it for. I love the keyboard and trackpad, The screen is amazing. I am using a
 	usb c to surface connect adapter for charging and have had no issues. For how
 	old it is it works amazing for my needs.
