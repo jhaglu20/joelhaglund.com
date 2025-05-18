@@ -21,7 +21,7 @@
 title: Joel's Website
 email: jhaglu20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-#This website will serve many purpuses but curently is just being started.
+This website will serve many purpuses but curently is just being started.
   I don't have a schedule for working on it so updates will be very spontaneous.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "joelhaglund.com" # the base hostname & protocol for your site, e.g. http://example.com
