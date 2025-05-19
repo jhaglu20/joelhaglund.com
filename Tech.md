@@ -1,6 +1,6 @@
 ---
 title: Tech
-layout: default
+layout: page
 permalink: /tech/
 collection: Tech
 ---
