@@ -1,6 +1,7 @@
 ---
-permalink: /tech/
-title: "Tech"
+permalink: /kenya25/
+title: "Kenya 2025"
+
 ---
 
-		[catlist name=Kenya25]
+	[catlist name=Kenya25]
