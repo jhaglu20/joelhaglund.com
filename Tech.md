@@ -1,7 +1,7 @@
 ---
 permalink: /tech/
 title: "Tech"
-layout: posts
+layout: archive
 [catlist name=Kenya25]
 ---
 
