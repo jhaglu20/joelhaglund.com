@@ -1,6 +1,6 @@
 ---
-permalink: /tech/
-title: "Tech"
+title: Tech
 layout: category
+permalink: /tech/
 collection: Tech
 ---
