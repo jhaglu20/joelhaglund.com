@@ -1,7 +1,8 @@
 ---
 permalink: /tech/
 title: "Tech"
+layout: posts
 [catlist name=Kenya25]
 ---
 
-	catlist name=Tech
+	Test Text
