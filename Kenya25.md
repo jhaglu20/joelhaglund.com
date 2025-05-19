@@ -1,6 +1,6 @@
 ---
 permalink: /kenya25/
-layout: collection
+layout: default
 title: "Kenya 2025"
 collection: Kenya25
 
