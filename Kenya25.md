@@ -1,0 +1,6 @@
+---
+permalink: /tech/
+title: "Tech"
+---
+
+	

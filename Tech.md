@@ -1,6 +1,6 @@
 ---
-permalink: /tech/
-title: "Tech"
+permalink: /kenya25/
+title: "Kenya 2025"
 ---
 
 	
